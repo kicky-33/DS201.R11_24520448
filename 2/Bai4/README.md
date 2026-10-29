@@ -1,4 +1,4 @@
-# Bài 4 — Fine-tuning pretrained ResNet-50
+# Bài 4: Fine-tuning pretrained ResNet-50
 
 Phân loại 21 lớp VinaFood21 bằng pretrained `microsoft/resnet-50` từ Hugging
 Face. So sánh hai chế độ:
