@@ -1,4 +1,4 @@
-# Bài 1 — LeNet-5 trên VinaFood21
+# Bài 1: LeNet-5 trên VinaFood21
 
 Phân loại 21 lớp VinaFood21 bằng LeNet-5 điều chỉnh cho ảnh RGB 64×64. So sánh
 hai loại pooling:
