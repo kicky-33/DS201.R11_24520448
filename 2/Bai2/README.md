@@ -1,4 +1,4 @@
-# Bài 2 — GoogLeNet trên VinaFood21
+# Bài 2: GoogLeNet trên VinaFood21
 
 Phân loại 21 lớp VinaFood21 bằng GoogLeNet rút gọn gồm 4 Inception block,
 global average pooling và classifier 21 lớp.
