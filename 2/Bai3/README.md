@@ -1,4 +1,4 @@
-# Bài 3 — ResNet-18 trên VinaFood21
+# Bài 3: ResNet-18 trên VinaFood21
 
 Huấn luyện ResNet-18 từ đầu cho bài toán phân loại 21 lớp VinaFood21. So sánh
 hai chế độ:
